@@ -1,0 +1,76 @@
+lambda1 : 100.000000, lambda2 : 0.000010, lambda3 : 0.000010
+all the acc values are :0.790000
+all the acc values are :0.795000
+all the acc values are :0.792500
+all the acc values are :0.785000
+all the acc values are :0.787500
+all the acc values are :0.772500
+all the acc values are :0.780000
+all the acc values are :0.775000
+all the acc values are :0.790000
+all the acc values are :0.790000
+mean acc is: 0.785750 and std is: 0.007551
+
+all the nmi values are :0.875300
+all the nmi values are :0.881878
+all the nmi values are :0.878853
+all the nmi values are :0.868745
+all the nmi values are :0.872863
+all the nmi values are :0.862952
+all the nmi values are :0.869592
+all the nmi values are :0.867958
+all the nmi values are :0.877029
+all the nmi values are :0.877857
+mean nmi is: 0.873303 and std is: 0.005901
+
+lambda1 : 100.000000, lambda2 : 0.000100, lambda3 : 0.000010
+all the acc values are :0.790000
+all the acc values are :0.790000
+all the acc values are :0.785000
+all the acc values are :0.790000
+all the acc values are :0.787500
+all the acc values are :0.785000
+all the acc values are :0.787500
+all the acc values are :0.787500
+all the acc values are :0.795000
+all the acc values are :0.795000
+mean acc is: 0.789250 and std is: 0.003545
+
+all the nmi values are :0.879834
+all the nmi values are :0.876463
+all the nmi values are :0.873291
+all the nmi values are :0.875055
+all the nmi values are :0.871472
+all the nmi values are :0.874740
+all the nmi values are :0.874743
+all the nmi values are :0.873416
+all the nmi values are :0.879743
+all the nmi values are :0.879651
+mean nmi is: 0.875841 and std is: 0.002992
+
+lambda1 : 100.000000, lambda2 : 0.001000, lambda3 : 0.000010
+all the acc values are :0.735000
+all the acc values are :0.792500
+all the acc values are :0.775000
+all the acc values are :0.797500
+all the acc values are :0.760000
+all the acc values are :0.782500
+all the acc values are :0.782500
+all the acc values are :0.775000
+all the acc values are :0.770000
+all the acc values are :0.765000
+mean acc is: 0.773500 and std is: 0.017803
+
+all the nmi values are :0.861752
+all the nmi values are :0.880288
+all the nmi values are :0.881042
+all the nmi values are :0.885027
+all the nmi values are :0.880489
+all the nmi values are :0.876526
+all the nmi values are :0.888058
+all the nmi values are :0.876648
+all the nmi values are :0.880803
+all the nmi values are :0.878934
+mean nmi is: 0.878957 and std is: 0.006983
+
+lambda1 : 100.000000, lambda2 : 0.010000, lambda3 : 0.000010
